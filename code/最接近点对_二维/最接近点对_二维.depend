@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1405927769 source:g:\文件\mygit\acm\最接近点对_二维\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<algorithm>
+
