@@ -15,7 +15,7 @@ int main(void)
     int i, j;
     int m1, n1;
 
-    srand(time(NULL));
+    srand((unsigned)time(NULL));
 
     scanf("%d", &num);
     scanf("%d", &m);
